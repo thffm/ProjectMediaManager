@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaManager/MediaManager.iml" filepath="$PROJECT_DIR$/MediaManager/MediaManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestsJava.iml" filepath="$PROJECT_DIR$/.idea/TestsJava.iml" />
+    </modules>
+  </component>
+</project>
